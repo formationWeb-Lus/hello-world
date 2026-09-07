@@ -6,7 +6,7 @@ My goal is to strengthen my mobile application development skills by learning ho
 
 The software displays a simple interface containing a Hello World message, project information, and a short description of the application.
 
-[Video demonstration of the software](http://youtube.link.goes.here/)
+[Video demonstration of the software https://youtu.be/WpimS3mmIN8?si=eFYU5rEUF7EsyK6z
 
 # Development Environment
 
